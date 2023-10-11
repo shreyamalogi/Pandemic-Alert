@@ -1,9 +1,9 @@
-
+![demo](https://github.com/shreyamalogi/Pandemic-Alert/blob/master/covid%20gif.gif)
 
 
 # Pandemic Alert 🌐🚨
 
-GitHub Stars: [![GitHub stars](https://img.shields.io/github/stars/shreyamalogi/pandemic-alert.svg?style=social)](https://github.com/shreyamalogi/pandemic-alert/stargazers)
+ [![GitHub stars](https://img.shields.io/github/stars/shreyamalogi/pandemic-alert.svg?style=social)](https://github.com/shreyamalogi/pandemic-alert/stargazers)
 
 ### Project Details: 💻🌐📅✍️
 
@@ -31,6 +31,12 @@ Greetings, everyone! I'm [@shreyamalogi](https://github.com/shreyamalogi), and I
 ## Casting the Enchantment Spell 🌐✨
 
 ### Step 1: Gather the Magical Ingredients
+
+- Feel the magic – clone the repository using:
+
+  ```bash
+  git clone https://github.com/shreyamalogi/Pandemic-Alert.git
+  ```
 
 - Make sure your computer understands the language of Python. If not, seek help from someone more experienced.
 - Acquire the enchanted ingredients named requests, beautifulsoup4, and plyer. Add them with the following command:
@@ -83,6 +89,6 @@ This project is enchanted under the spell of the MIT License. Share the magic re
 
 MIT License
 
-Copyright (c) 2021 Shreya Malogi
+Copyright (c) 2020 Shreya Malogi
 
 Stay Enchanted! 🌍💙
