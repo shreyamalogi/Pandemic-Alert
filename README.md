@@ -1,5 +1,10 @@
 # Pandemic Alert 🌐🚨
 
+[![GitHub stars ](https://img.shields.io/github/stars/shreyamalogi/Pandemic-Alert.svg?style=social)](https://github.com/your-username/Pandemic-Alert/stargazers)
+
+
+
+
 ## Introduction 🧙‍♂️✨
 
 Greetings, apprentice wizards! 🌟 [@shreyamalogi](https://github.com/shreyamalogi), your magical guide, presents the COVID-19 Enchantment Notifier! Join us on this spellbinding journey to stay informed about the ever-changing world of COVID-19.
